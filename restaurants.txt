@@ -1,0 +1,11 @@
+Kumpel Keule,Kreuzberg
+Nonne und Zwerg,Kreuzberg
+Mogg,Mitte
+Standard Pizza,Prenzlauer Berg
+Silo,Friedrichshain
+Molinari,Kreuzberg
+Umami,Kreuzberg
+Szimpla,Friedrichshain
+
+
+
